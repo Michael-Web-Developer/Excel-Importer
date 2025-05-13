@@ -1,0 +1,10 @@
+10024 - The date field must match the format d.m.Y.
+7738 - The name field format is invalid.
+23636 - The id field must be at least 0.
+34119 - The name field format is invalid.
+34127 - The name field format is invalid.
+39109 - The date field must match the format d.m.Y.
+42361 - Duplicate id
+46083 - The name field format is invalid.
+46161 - The date field must match the format d.m.Y.
+49317 - The date field must match the format d.m.Y.
